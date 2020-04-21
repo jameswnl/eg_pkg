@@ -1,0 +1,7 @@
+README.md
+setup.py
+eg_pkg/__init__.py
+example_pkg_jwong.egg-info/PKG-INFO
+example_pkg_jwong.egg-info/SOURCES.txt
+example_pkg_jwong.egg-info/dependency_links.txt
+example_pkg_jwong.egg-info/top_level.txt
